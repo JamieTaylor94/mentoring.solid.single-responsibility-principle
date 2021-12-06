@@ -12,13 +12,16 @@ A software engineer working for the government has thrown together a simple cons
 Here are the requirements:
 
 - As a party organiser I want users to be able to submit their name and email-address to register for the Christmas party.
+- As a user I should be able to see a success message is displayed to the user when registered.
 - As a party organiser I only want users of 18 years and over to be able to register.
+- As a user I should be able to see that my registration has been rejected if I do not meet the age criteria.
 
-The first requirement has been completed but the application cannot go live without the second requirement. 
+The first two requirements has been completed but the application cannot go live without age restrictions. 
 
 Hints:
 
 - Age validation logic needs adding.
+- A success message is displayed to the user when succesfully registered.
 - The age validation should be in a new class and should be unit tested.
 
 ## Evidence for the matrix
