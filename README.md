@@ -7,7 +7,7 @@
 
 ## Practical 
 
-A software engineer working for the government has thrown together a simple console application for Boris & friends to sign up to this years Christmas party. Unfortunately this employee is off sick and having to self-isolate after getting a bit too close and personal with Matt Nobcock. 
+A software engineer working for the government has thrown together a simple console application for Boris & friends to sign up to this year’s Christmas party. Unfortunately, this employee is off sick and having to self-isolate after getting a bit too close and personal with Matt Nobcock. 
 
 Here are the requirements:
 
@@ -30,5 +30,5 @@ Answer the following questions:
 What is single responsibility principle?   
 Why do we use single responsibility principle?   
 
-Insert a link that goes to that file in the repo in your github account.
+Insert a link that goes to that file in the repo in your GitHub account.
 
